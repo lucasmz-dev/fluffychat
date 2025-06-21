@@ -1,15 +1,7 @@
 {
   "@@last_modified": "2021-08-14 12:41:09.967351",
   "about": "Om",
-  "@about": {
-    "type": "String",
-    "placeholders": {}
-  },
   "accept": "Godta",
-  "@accept": {
-    "type": "String",
-    "placeholders": {}
-  },
   "acceptedTheInvitation": "{username} godtok invitasjonen",
   "@acceptedTheInvitation": {
     "type": "String",
@@ -20,10 +12,6 @@
     }
   },
   "account": "Konto",
-  "@account": {
-    "type": "String",
-    "placeholders": {}
-  },
   "activatedEndToEndEncryption": "{username} skrudde på ende-til-ende -kryptering",
   "@activatedEndToEndEncryption": {
     "type": "String",
@@ -34,20 +22,8 @@
     }
   },
   "admin": "Administrator",
-  "@admin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "alias": "alias",
-  "@alias": {
-    "type": "String",
-    "placeholders": {}
-  },
   "all": "Alle",
-  "@all": {
-    "type": "String",
-    "placeholders": {}
-  },
   "answeredTheCall": "{senderName} besvarte anropet",
   "@answeredTheCall": {
     "type": "String",
@@ -58,40 +34,12 @@
     }
   },
   "anyoneCanJoin": "Hvem som helst kan delta",
-  "@anyoneCanJoin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "appLock": "Programlås",
-  "@appLock": {
-    "type": "String",
-    "placeholders": {}
-  },
   "archive": "Arkiv",
-  "@archive": {
-    "type": "String",
-    "placeholders": {}
-  },
   "areGuestsAllowedToJoin": "Skal gjester tillates å ta del",
-  "@areGuestsAllowedToJoin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "areYouSure": "Er du sikker?",
-  "@areYouSure": {
-    "type": "String",
-    "placeholders": {}
-  },
   "areYouSureYouWantToLogout": "Er du sikker på at du vil logge ut?",
-  "@areYouSureYouWantToLogout": {
-    "type": "String",
-    "placeholders": {}
-  },
   "askSSSSSign": "For å kunne signere den andre personen, skriv inn ditt sikre lagerpassord eller gjenopprettingsnøkkel.",
-  "@askSSSSSign": {
-    "type": "String",
-    "placeholders": {}
-  },
   "askVerificationRequest": "Godta denne bekreftelsesforespørselen fra {username}?",
   "@askVerificationRequest": {
     "type": "String",
@@ -102,15 +50,7 @@
     }
   },
   "banFromChat": "Bannlys fra sludring",
-  "@banFromChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "banned": "Bannlyst",
-  "@banned": {
-    "type": "String",
-    "placeholders": {}
-  },
   "bannedUser": "{username} bannlyste {targetName}",
   "@bannedUser": {
     "type": "String",
@@ -124,25 +64,9 @@
     }
   },
   "blockDevice": "Blokker enhet",
-  "@blockDevice": {
-    "type": "String",
-    "placeholders": {}
-  },
   "botMessages": "Bot-meldinger",
-  "@botMessages": {
-    "type": "String",
-    "placeholders": {}
-  },
   "cancel": "Avbryt",
-  "@cancel": {
-    "type": "String",
-    "placeholders": {}
-  },
   "changeDeviceName": "Endre enhetsnavn",
-  "@changeDeviceName": {
-    "type": "String",
-    "placeholders": {}
-  },
   "changedTheChatAvatar": "{username} endret sludreavatar",
   "@changedTheChatAvatar": {
     "type": "String",
@@ -288,120 +212,28 @@
     }
   },
   "changePassword": "Endre passord",
-  "@changePassword": {
-    "type": "String",
-    "placeholders": {}
-  },
   "changeTheHomeserver": "Endre hjemmetjener",
-  "@changeTheHomeserver": {
-    "type": "String",
-    "placeholders": {}
-  },
   "changeTheme": "Endre din stil",
-  "@changeTheme": {
-    "type": "String",
-    "placeholders": {}
-  },
   "changeTheNameOfTheGroup": "Endre gruppens navn",
-  "@changeTheNameOfTheGroup": {
-    "type": "String",
-    "placeholders": {}
-  },
   "channelCorruptedDecryptError": "Krypteringen er skadet",
-  "@channelCorruptedDecryptError": {
-    "type": "String",
-    "placeholders": {}
-  },
   "chat": "Sludring",
-  "@chat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "chatBackup": "Sludringssikkerhetskopi",
-  "@chatBackup": {
-    "type": "String",
-    "placeholders": {}
-  },
   "chatBackupDescription": "Din sludringssikkerhetskopi er sikret med en sikkerhetsnøkkel. Ikke mist den.",
-  "@chatBackupDescription": {
-    "type": "String",
-    "placeholders": {}
-  },
   "chatDetails": "Sludringsdetaljer",
-  "@chatDetails": {
-    "type": "String",
-    "placeholders": {}
-  },
   "chooseAStrongPassword": "Velg et sterkt passord",
-  "@chooseAStrongPassword": {
-    "type": "String",
-    "placeholders": {}
-  },
   "close": "Lukk",
-  "@close": {
-    "type": "String",
-    "placeholders": {}
-  },
   "compareEmojiMatch": "Sammenlign og forsikre at følgende smilefjes samsvarer med de på den andre enheten:",
-  "@compareEmojiMatch": {
-    "type": "String",
-    "placeholders": {}
-  },
   "compareNumbersMatch": "Sammenlign og forsikre at følgende tall samsvarer med de på den andre enheten:",
-  "@compareNumbersMatch": {
-    "type": "String",
-    "placeholders": {}
-  },
   "configureChat": "Sett opp sludring",
-  "@configureChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "confirm": "Bekreft",
-  "@confirm": {
-    "type": "String",
-    "placeholders": {}
-  },
   "connect": "Koble til",
-  "@connect": {
-    "type": "String",
-    "placeholders": {}
-  },
   "contactHasBeenInvitedToTheGroup": "Kontakt invitert til gruppen",
-  "@contactHasBeenInvitedToTheGroup": {
-    "type": "String",
-    "placeholders": {}
-  },
   "containsDisplayName": "Inneholder visningsnavn",
-  "@containsDisplayName": {
-    "type": "String",
-    "placeholders": {}
-  },
   "containsUserName": "Inneholder brukernavn",
-  "@containsUserName": {
-    "type": "String",
-    "placeholders": {}
-  },
   "contentHasBeenReported": "Innholdet har blitt rapportert til tjeneradministratorene",
-  "@contentHasBeenReported": {
-    "type": "String",
-    "placeholders": {}
-  },
   "copiedToClipboard": "Kopiert til utklippstavle",
-  "@copiedToClipboard": {
-    "type": "String",
-    "placeholders": {}
-  },
   "copy": "Kopier",
-  "@copy": {
-    "type": "String",
-    "placeholders": {}
-  },
   "copyToClipboard": "Kopier til utklippstavle",
-  "@copyToClipboard": {
-    "type": "String",
-    "placeholders": {}
-  },
   "couldNotDecryptMessage": "Kunne ikke dekryptere melding: {error}",
   "@couldNotDecryptMessage": {
     "type": "String",
@@ -421,10 +253,6 @@
     }
   },
   "create": "Opprett",
-  "@create": {
-    "type": "String",
-    "placeholders": {}
-  },
   "createdTheChat": "{username} opprettet sludringen",
   "@createdTheChat": {
     "type": "String",
@@ -435,15 +263,7 @@
     }
   },
   "currentlyActive": "Aktiv nå",
-  "@currentlyActive": {
-    "type": "String",
-    "placeholders": {}
-  },
   "darkTheme": "Mørk",
-  "@darkTheme": {
-    "type": "String",
-    "placeholders": {}
-  },
   "dateAndTimeOfDay": "{timeOfDay}, {date}",
   "@dateAndTimeOfDay": {
     "type": "String",
@@ -484,145 +304,33 @@
     }
   },
   "deactivateAccountWarning": "Dette vil skru av din brukerkonto for godt, og kan ikke angres! Er du sikker?",
-  "@deactivateAccountWarning": {
-    "type": "String",
-    "placeholders": {}
-  },
   "defaultPermissionLevel": "Forvalgt tilgangsnivå",
-  "@defaultPermissionLevel": {
-    "type": "String",
-    "placeholders": {}
-  },
   "delete": "Slett",
-  "@delete": {
-    "type": "String",
-    "placeholders": {}
-  },
   "deleteAccount": "Slett konto",
-  "@deleteAccount": {
-    "type": "String",
-    "placeholders": {}
-  },
   "deleteMessage": "Slett melding",
-  "@deleteMessage": {
-    "type": "String",
-    "placeholders": {}
-  },
   "device": "Enhet",
-  "@device": {
-    "type": "String",
-    "placeholders": {}
-  },
   "deviceId": "Enhets-ID",
-  "@deviceId": {
-    "type": "String",
-    "placeholders": {}
-  },
   "devices": "Enheter",
-  "@devices": {
-    "type": "String",
-    "placeholders": {}
-  },
   "directChats": "Direktesludringer",
-  "@directChats": {
-    "type": "String",
-    "placeholders": {}
-  },
   "displaynameHasBeenChanged": "Visningsnavn endret",
-  "@displaynameHasBeenChanged": {
-    "type": "String",
-    "placeholders": {}
-  },
   "downloadFile": "Last ned fil",
-  "@downloadFile": {
-    "type": "String",
-    "placeholders": {}
-  },
   "edit": "Rediger",
-  "@edit": {
-    "type": "String",
-    "placeholders": {}
-  },
   "editBlockedServers": "Rediger blokkerte tjenere",
-  "@editBlockedServers": {
-    "type": "String",
-    "placeholders": {}
-  },
   "editDisplayname": "Rediger visningsnavn",
-  "@editDisplayname": {
-    "type": "String",
-    "placeholders": {}
-  },
   "editRoomAvatar": "Rediger romavatar",
-  "@editRoomAvatar": {
-    "type": "String",
-    "placeholders": {}
-  },
   "emoteExists": "Smilefjeset finnes allerede!",
-  "@emoteExists": {
-    "type": "String",
-    "placeholders": {}
-  },
   "emoteInvalid": "Ugyldig smilefjes-kode!",
-  "@emoteInvalid": {
-    "type": "String",
-    "placeholders": {}
-  },
   "emotePacks": "Smilefjespakker for rommet",
-  "@emotePacks": {
-    "type": "String",
-    "placeholders": {}
-  },
   "emoteSettings": "Smilefjes-innstillinger",
-  "@emoteSettings": {
-    "type": "String",
-    "placeholders": {}
-  },
   "emoteShortcode": "Smilefjes-kode",
-  "@emoteShortcode": {
-    "type": "String",
-    "placeholders": {}
-  },
   "emoteWarnNeedToPick": "Du må velge en smilefjes-kode og et bilde!",
-  "@emoteWarnNeedToPick": {
-    "type": "String",
-    "placeholders": {}
-  },
   "emptyChat": "Tom sludring",
-  "@emptyChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "enableEmotesGlobally": "Skru på smilefjespakke for hele programmet",
-  "@enableEmotesGlobally": {
-    "type": "String",
-    "placeholders": {}
-  },
   "enableEncryption": "Skru på kryptering",
-  "@enableEncryption": {
-    "type": "String",
-    "placeholders": {}
-  },
   "enableEncryptionWarning": "Du vil ikke kunne skru av kryptering lenger. Er du sikker?",
-  "@enableEncryptionWarning": {
-    "type": "String",
-    "placeholders": {}
-  },
   "encrypted": "Kryptert",
-  "@encrypted": {
-    "type": "String",
-    "placeholders": {}
-  },
   "encryption": "Kryptering",
-  "@encryption": {
-    "type": "String",
-    "placeholders": {}
-  },
   "encryptionNotEnabled": "Kryptering er ikke påskrudd",
-  "@encryptionNotEnabled": {
-    "type": "String",
-    "placeholders": {}
-  },
   "endedTheCall": "{senderName} avsluttet samtalen",
   "@endedTheCall": {
     "type": "String",
@@ -633,70 +341,18 @@
     }
   },
   "enterAnEmailAddress": "Skriv inn en e-postadresse",
-  "@enterAnEmailAddress": {
-    "type": "String",
-    "placeholders": {}
-  },
   "enterYourHomeserver": "Skriv inn din hjemmetjener",
-  "@enterYourHomeserver": {
-    "type": "String",
-    "placeholders": {}
-  },
   "everythingReady": "Alt er klart!",
-  "@everythingReady": {
-    "type": "String",
-    "placeholders": {}
-  },
   "extremeOffensive": "Veldig",
-  "@extremeOffensive": {
-    "type": "String",
-    "placeholders": {}
-  },
   "fileName": "Filnavn",
-  "@fileName": {
-    "type": "String",
-    "placeholders": {}
-  },
   "fluffychat": "FluffyChat",
-  "@fluffychat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "fontSize": "Skriftstørrelse",
-  "@fontSize": {
-    "type": "String",
-    "placeholders": {}
-  },
   "forward": "Videre",
-  "@forward": {
-    "type": "String",
-    "placeholders": {}
-  },
   "fromJoining": "Fra å ta del",
-  "@fromJoining": {
-    "type": "String",
-    "placeholders": {}
-  },
   "fromTheInvitation": "Fra invitasjonen",
-  "@fromTheInvitation": {
-    "type": "String",
-    "placeholders": {}
-  },
   "group": "Gruppe",
-  "@group": {
-    "type": "String",
-    "placeholders": {}
-  },
   "groupIsPublic": "Gruppen er offentlig",
-  "@groupIsPublic": {
-    "type": "String",
-    "placeholders": {}
-  },
   "groups": "Grupper",
-  "@groups": {
-    "type": "String",
-    "placeholders": {}
-  },
   "groupWith": "Gruppe med {displayname}",
   "@groupWith": {
     "type": "String",
@@ -707,15 +363,7 @@
     }
   },
   "guestsAreForbidden": "Gjester forbudt",
-  "@guestsAreForbidden": {
-    "type": "String",
-    "placeholders": {}
-  },
   "guestsCanJoin": "Gjester kan ta del",
-  "@guestsCanJoin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "hasWithdrawnTheInvitationFor": "{username} har trukket tilbake invitasjonen til {targetName}",
   "@hasWithdrawnTheInvitationFor": {
     "type": "String",
@@ -729,50 +377,14 @@
     }
   },
   "help": "Hjelp",
-  "@help": {
-    "type": "String",
-    "placeholders": {}
-  },
   "hideRedactedEvents": "Skjul tilbaketrukne hendelser",
-  "@hideRedactedEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Hvor støtende er innholdet?",
-  "@howOffensiveIsThisContent": {
-    "type": "String",
-    "placeholders": {}
-  },
   "id": "ID",
-  "@id": {
-    "type": "String",
-    "placeholders": {}
-  },
   "identity": "Identitet",
-  "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
   "iHaveClickedOnLink": "Jeg har klikket på lenken",
-  "@iHaveClickedOnLink": {
-    "type": "String",
-    "placeholders": {}
-  },
   "incorrectPassphraseOrKey": "Feilaktig passord eller gjenopprettingsnøkkel",
-  "@incorrectPassphraseOrKey": {
-    "type": "String",
-    "placeholders": {}
-  },
   "inoffensive": "Harmløst",
-  "@inoffensive": {
-    "type": "String",
-    "placeholders": {}
-  },
   "inviteContact": "Inviter kontakt",
-  "@inviteContact": {
-    "type": "String",
-    "placeholders": {}
-  },
   "inviteContactToGroup": "Inviter kontakt til {groupName}",
   "@inviteContactToGroup": {
     "type": "String",
@@ -783,10 +395,6 @@
     }
   },
   "invited": "Invitert",
-  "@invited": {
-    "type": "String",
-    "placeholders": {}
-  },
   "invitedUser": "{username} inviterte {targetName}",
   "@invitedUser": {
     "type": "String",
@@ -800,15 +408,7 @@
     }
   },
   "invitedUsersOnly": "Kun inviterte brukere",
-  "@invitedUsersOnly": {
-    "type": "String",
-    "placeholders": {}
-  },
   "inviteForMe": "Invitasjon for meg",
-  "@inviteForMe": {
-    "type": "String",
-    "placeholders": {}
-  },
   "inviteText": "{username} har invitert deg til FluffyChat. \n1. Installer FluffyChat: https://fluffychat.im \n2. Registrer deg eller logg inn \n3. Åpne invitasjonslenken: {link}",
   "@inviteText": {
     "type": "String",
@@ -822,10 +422,6 @@
     }
   },
   "isTyping": "skriver…",
-  "@isTyping": {
-    "type": "String",
-    "placeholders": {}
-  },
   "joinedTheChat": "{username}ble med i samtalen",
   "@joinedTheChat": {
     "type": "String",
@@ -836,10 +432,6 @@
     }
   },
   "joinRoom": "Ta del i rom",
-  "@joinRoom": {
-    "type": "String",
-    "placeholders": {}
-  },
   "kicked": "{username} kastet ut {targetName}",
   "@kicked": {
     "type": "String",
@@ -865,10 +457,6 @@
     }
   },
   "kickFromChat": "Kast ut av sludringen",
-  "@kickFromChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "lastActiveAgo": "Sist aktiv: {localizedTimeShort}",
   "@lastActiveAgo": {
     "type": "String",
@@ -879,25 +467,9 @@
     }
   },
   "leave": "Forlat",
-  "@leave": {
-    "type": "String",
-    "placeholders": {}
-  },
   "leftTheChat": "Forlat sludringen",
-  "@leftTheChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "license": "Lisens",
-  "@license": {
-    "type": "String",
-    "placeholders": {}
-  },
   "lightTheme": "Lys",
-  "@lightTheme": {
-    "type": "String",
-    "placeholders": {}
-  },
   "loadCountMoreParticipants": "Last inn {count} deltagere til",
   "@loadCountMoreParticipants": {
     "type": "String",
@@ -908,20 +480,8 @@
     }
   },
   "loadingPleaseWait": "Laster inn… Vent.",
-  "@loadingPleaseWait": {
-    "type": "String",
-    "placeholders": {}
-  },
   "loadMore": "Last inn mer…",
-  "@loadMore": {
-    "type": "String",
-    "placeholders": {}
-  },
   "login": "Logg inn",
-  "@login": {
-    "type": "String",
-    "placeholders": {}
-  },
   "logInTo": "Logg inn på {homeserver}",
   "@logInTo": {
     "type": "String",
@@ -932,105 +492,25 @@
     }
   },
   "logout": "Logg ut",
-  "@logout": {
-    "type": "String",
-    "placeholders": {}
-  },
   "memberChanges": "Medlemsendringer",
-  "@memberChanges": {
-    "type": "String",
-    "placeholders": {}
-  },
   "mention": "Nevn",
-  "@mention": {
-    "type": "String",
-    "placeholders": {}
-  },
   "messages": "Meldinger",
-  "@messages": {
-    "type": "String",
-    "placeholders": {}
-  },
   "moderator": "Moderator",
-  "@moderator": {
-    "type": "String",
-    "placeholders": {}
-  },
   "muteChat": "Forstum sludring",
-  "@muteChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "needPantalaimonWarning": "Merk at du trenger Pantalaimon for å bruke ende-til-ende -kryptering inntil videre.",
-  "@needPantalaimonWarning": {
-    "type": "String",
-    "placeholders": {}
-  },
   "newChat": "Ny sludring",
-  "@newChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "newMessageInFluffyChat": "Ny melding i FluffyChat",
-  "@newMessageInFluffyChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "newVerificationRequest": "Ny bekreftelsesforespørsel!",
-  "@newVerificationRequest": {
-    "type": "String",
-    "placeholders": {}
-  },
   "next": "Neste",
-  "@next": {
-    "type": "String",
-    "placeholders": {}
-  },
   "no": "Nei",
-  "@no": {
-    "type": "String",
-    "placeholders": {}
-  },
   "noEmotesFound": "Fant ingen smilefjes. 😕",
-  "@noEmotesFound": {
-    "type": "String",
-    "placeholders": {}
-  },
   "noGoogleServicesWarning": "Bruk https://microg.org/ for å få Google-tjenester (uten at det går ut over personvernet) for å få push-merknader i FluffyChat:",
-  "@noGoogleServicesWarning": {
-    "type": "String",
-    "placeholders": {}
-  },
   "none": "Ingen",
-  "@none": {
-    "type": "String",
-    "placeholders": {}
-  },
   "noPasswordRecoveryDescription": "Du har ikke lagt til en måte å gjenopprette passordet ditt på.",
-  "@noPasswordRecoveryDescription": {
-    "type": "String",
-    "placeholders": {}
-  },
   "noPermission": "Ingen tilgang",
-  "@noPermission": {
-    "type": "String",
-    "placeholders": {}
-  },
   "noRoomsFound": "Fant ingen rom …",
-  "@noRoomsFound": {
-    "type": "String",
-    "placeholders": {}
-  },
   "notifications": "Merknader",
-  "@notifications": {
-    "type": "String",
-    "placeholders": {}
-  },
   "notificationsEnabledForThisAccount": "Merknader påslått for denne kontoen",
-  "@notificationsEnabledForThisAccount": {
-    "type": "String",
-    "placeholders": {}
-  },
   "numUsersTyping": "{count} brukere skriver …",
   "@numUsersTyping": {
     "type": "String",
@@ -1041,85 +521,21 @@
     }
   },
   "offensive": "Støtende",
-  "@offensive": {
-    "type": "String",
-    "placeholders": {}
-  },
   "offline": "Frakoblet",
-  "@offline": {
-    "type": "String",
-    "placeholders": {}
-  },
   "ok": "OK",
-  "@ok": {
-    "type": "String",
-    "placeholders": {}
-  },
   "online": "Pålogget",
-  "@online": {
-    "type": "String",
-    "placeholders": {}
-  },
   "onlineKeyBackupEnabled": "Nettbasert sikkerhetskopiering av nøkler på",
-  "@onlineKeyBackupEnabled": {
-    "type": "String",
-    "placeholders": {}
-  },
   "oopsSomethingWentWrong": "Oida, noe gikk galt …",
-  "@oopsSomethingWentWrong": {
-    "type": "String",
-    "placeholders": {}
-  },
   "openAppToReadMessages": "Åpne programmet for å lese meldinger",
-  "@openAppToReadMessages": {
-    "type": "String",
-    "placeholders": {}
-  },
   "openCamera": "Åpne kamera",
-  "@openCamera": {
-    "type": "String",
-    "placeholders": {}
-  },
   "participant": "Deltager",
-  "@participant": {
-    "type": "String",
-    "placeholders": {}
-  },
   "passphraseOrKey": "Passord eller gjenopprettingsnøkkel",
-  "@passphraseOrKey": {
-    "type": "String",
-    "placeholders": {}
-  },
   "password": "Passord",
-  "@password": {
-    "type": "String",
-    "placeholders": {}
-  },
   "passwordForgotten": "Passord glemt",
-  "@passwordForgotten": {
-    "type": "String",
-    "placeholders": {}
-  },
   "passwordHasBeenChanged": "Passord endret",
-  "@passwordHasBeenChanged": {
-    "type": "String",
-    "placeholders": {}
-  },
   "passwordRecovery": "Passordgjenoppretting",
-  "@passwordRecovery": {
-    "type": "String",
-    "placeholders": {}
-  },
   "pickImage": "Velg bilde",
-  "@pickImage": {
-    "type": "String",
-    "placeholders": {}
-  },
   "pin": "Fest",
-  "@pin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "play": "Spill av {fileName}",
   "@play": {
     "type": "String",
@@ -1130,50 +546,14 @@
     }
   },
   "pleaseClickOnLink": "Klikk på lenken i e-posten og fortsett.",
-  "@pleaseClickOnLink": {
-    "type": "String",
-    "placeholders": {}
-  },
   "pleaseEnterYourPassword": "Skriv inn passordet ditt",
-  "@pleaseEnterYourPassword": {
-    "type": "String",
-    "placeholders": {}
-  },
   "pleaseEnterYourUsername": "Skriv inn brukernavnet ditt",
-  "@pleaseEnterYourUsername": {
-    "type": "String",
-    "placeholders": {}
-  },
   "pleaseFollowInstructionsOnWeb": "Følg instruksen på nettsiden og trykk på «Neste».",
-  "@pleaseFollowInstructionsOnWeb": {
-    "type": "String",
-    "placeholders": {}
-  },
   "privacy": "Personvern",
-  "@privacy": {
-    "type": "String",
-    "placeholders": {}
-  },
   "publicRooms": "Offentlige rom",
-  "@publicRooms": {
-    "type": "String",
-    "placeholders": {}
-  },
   "pushRules": "Dyttingsregler",
-  "@pushRules": {
-    "type": "String",
-    "placeholders": {}
-  },
   "reason": "Grunn",
-  "@reason": {
-    "type": "String",
-    "placeholders": {}
-  },
   "recording": "Opptak",
-  "@recording": {
-    "type": "String",
-    "placeholders": {}
-  },
   "redactedAnEvent": "{username} har trukket tilbake en hendelse",
   "@redactedAnEvent": {
     "type": "String",
@@ -1184,10 +564,6 @@
     }
   },
   "reject": "Avslå",
-  "@reject": {
-    "type": "String",
-    "placeholders": {}
-  },
   "rejectedTheInvitation": "{username} avslo invitasjonen",
   "@rejectedTheInvitation": {
     "type": "String",
@@ -1198,20 +574,8 @@
     }
   },
   "rejoin": "Ta del igjen",
-  "@rejoin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "remove": "Fjern",
-  "@remove": {
-    "type": "String",
-    "placeholders": {}
-  },
   "removeAllOtherDevices": "Fjern alle andre enheter",
-  "@removeAllOtherDevices": {
-    "type": "String",
-    "placeholders": {}
-  },
   "removedBy": "Fjernet av {username}",
   "@removedBy": {
     "type": "String",
@@ -1222,50 +586,14 @@
     }
   },
   "removeDevice": "Fjern enhet",
-  "@removeDevice": {
-    "type": "String",
-    "placeholders": {}
-  },
   "unbanFromChat": "Opphev bannlysning",
-  "@unbanFromChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "replaceRoomWithNewerVersion": "Erstatt rom med nyere versjon",
-  "@replaceRoomWithNewerVersion": {
-    "type": "String",
-    "placeholders": {}
-  },
   "reply": "Svar",
-  "@reply": {
-    "type": "String",
-    "placeholders": {}
-  },
   "reportMessage": "Rapporter melding",
-  "@reportMessage": {
-    "type": "String",
-    "placeholders": {}
-  },
   "requestPermission": "Forespør tilgang",
-  "@requestPermission": {
-    "type": "String",
-    "placeholders": {}
-  },
   "roomHasBeenUpgraded": "Rommet har blitt oppgradert",
-  "@roomHasBeenUpgraded": {
-    "type": "String",
-    "placeholders": {}
-  },
   "search": "Søk",
-  "@search": {
-    "type": "String",
-    "placeholders": {}
-  },
   "security": "Sikkerhet",
-  "@security": {
-    "type": "String",
-    "placeholders": {}
-  },
   "seenByUser": "Sett av {username}",
   "@seenByUser": {
     "type": "String",
@@ -1276,45 +604,13 @@
     }
   },
   "send": "Send",
-  "@send": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sendAMessage": "Send en melding",
-  "@sendAMessage": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sendAudio": "Send lyd",
-  "@sendAudio": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sendFile": "Send fil",
-  "@sendFile": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sendImage": "Send bilde",
-  "@sendImage": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sendMessages": "Send meldinger",
-  "@sendMessages": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sendOriginal": "Send original",
-  "@sendOriginal": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sendVideo": "Send video",
-  "@sendVideo": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sentAFile": "{username} sendte en fil",
   "@sentAFile": {
     "type": "String",
@@ -1370,35 +666,11 @@
     }
   },
   "setCustomEmotes": "Sett tilpassede smilefjes",
-  "@setCustomEmotes": {
-    "type": "String",
-    "placeholders": {}
-  },
   "setInvitationLink": "Sett invitasjonslenke",
-  "@setInvitationLink": {
-    "type": "String",
-    "placeholders": {}
-  },
   "setPermissionsLevel": "Sett tilgangsnivå",
-  "@setPermissionsLevel": {
-    "type": "String",
-    "placeholders": {}
-  },
   "setStatus": "Angi status",
-  "@setStatus": {
-    "type": "String",
-    "placeholders": {}
-  },
   "settings": "Innstilinger",
-  "@settings": {
-    "type": "String",
-    "placeholders": {}
-  },
   "share": "Del",
-  "@share": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sharedTheLocation": "{username} delte posisjonen",
   "@sharedTheLocation": {
     "type": "String",
@@ -1409,15 +681,7 @@
     }
   },
   "skip": "Hopp over",
-  "@skip": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sourceCode": "Kildekode",
-  "@sourceCode": {
-    "type": "String",
-    "placeholders": {}
-  },
   "startedACall": "{senderName} startet en samtale",
   "@startedACall": {
     "type": "String",
@@ -1428,35 +692,11 @@
     }
   },
   "status": "Status",
-  "@status": {
-    "type": "String",
-    "placeholders": {}
-  },
   "statusExampleMessage": "Hvordan har du det i dag?",
-  "@statusExampleMessage": {
-    "type": "String",
-    "placeholders": {}
-  },
   "submit": "Send inn",
-  "@submit": {
-    "type": "String",
-    "placeholders": {}
-  },
   "systemTheme": "System",
-  "@systemTheme": {
-    "type": "String",
-    "placeholders": {}
-  },
   "theyDontMatch": "Samsvarer ikke",
-  "@theyDontMatch": {
-    "type": "String",
-    "placeholders": {}
-  },
   "theyMatch": "Samsvarer",
-  "@theyMatch": {
-    "type": "String",
-    "placeholders": {}
-  },
   "title": "FluffyChat",
   "@title": {
     "description": "Title for the application",
@@ -1464,25 +704,9 @@
     "placeholders": {}
   },
   "tooManyRequestsWarning": "For mange forespørsler. Prøv igjen senere!",
-  "@tooManyRequestsWarning": {
-    "type": "String",
-    "placeholders": {}
-  },
   "transferFromAnotherDevice": "Overfør fra en annen enhet",
-  "@transferFromAnotherDevice": {
-    "type": "String",
-    "placeholders": {}
-  },
   "tryToSendAgain": "Prøv å sende igjen",
-  "@tryToSendAgain": {
-    "type": "String",
-    "placeholders": {}
-  },
   "unavailable": "Utilgjengelig",
-  "@unavailable": {
-    "type": "String",
-    "placeholders": {}
-  },
   "unbannedUser": "{username} opphevet bannlysning av {targetName}",
   "@unbannedUser": {
     "type": "String",
@@ -1496,20 +720,8 @@
     }
   },
   "unblockDevice": "Opphev blokkering av enhet",
-  "@unblockDevice": {
-    "type": "String",
-    "placeholders": {}
-  },
   "unknownDevice": "Ukjent enhet",
-  "@unknownDevice": {
-    "type": "String",
-    "placeholders": {}
-  },
   "unknownEncryptionAlgorithm": "Ukjent krypteringsalgoritme",
-  "@unknownEncryptionAlgorithm": {
-    "type": "String",
-    "placeholders": {}
-  },
   "unknownEvent": "Ukjent hendelse «{type}»",
   "@unknownEvent": {
     "type": "String",
@@ -1520,15 +732,7 @@
     }
   },
   "unmuteChat": "Opphev forstumming av sludring",
-  "@unmuteChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "unpin": "Løsne",
-  "@unpin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "unreadChats": "{unreadCount, plural, other{{unreadCount} uleste sludringer}}",
   "@unreadChats": {
     "type": "String",
@@ -1581,10 +785,6 @@
     }
   },
   "username": "Brukernavn",
-  "@username": {
-    "type": "String",
-    "placeholders": {}
-  },
   "userSentUnknownEvent": "{username} sendte en {type}-hendelse",
   "@userSentUnknownEvent": {
     "type": "String",
@@ -1598,154 +798,36 @@
     }
   },
   "verify": "Bekreft",
-  "@verify": {
-    "type": "String",
-    "placeholders": {}
-  },
   "verifyStart": "Start bekreftelse",
-  "@verifyStart": {
-    "type": "String",
-    "placeholders": {}
-  },
   "verifySuccess": "Du har bekreftet!",
-  "@verifySuccess": {
-    "type": "String",
-    "placeholders": {}
-  },
   "verifyTitle": "Bekrefter annen konto",
-  "@verifyTitle": {
-    "type": "String",
-    "placeholders": {}
-  },
   "videoCall": "Videosamtale",
-  "@videoCall": {
-    "type": "String",
-    "placeholders": {}
-  },
   "visibilityOfTheChatHistory": "Sludrehistorikkens synlighet",
-  "@visibilityOfTheChatHistory": {
-    "type": "String",
-    "placeholders": {}
-  },
   "visibleForAllParticipants": "Synlig for alle deltagere",
-  "@visibleForAllParticipants": {
-    "type": "String",
-    "placeholders": {}
-  },
   "visibleForEveryone": "Synlig for alle",
-  "@visibleForEveryone": {
-    "type": "String",
-    "placeholders": {}
-  },
   "voiceMessage": "Lydmelding",
-  "@voiceMessage": {
-    "type": "String",
-    "placeholders": {}
-  },
   "waitingPartnerNumbers": "Venter på at samtalepartner skal godta tallene …",
-  "@waitingPartnerNumbers": {
-    "type": "String",
-    "placeholders": {}
-  },
   "wallpaper": "Bakgrunnsbilde",
-  "@wallpaper": {
-    "type": "String",
-    "placeholders": {}
-  },
   "warning": "Advarsel!",
-  "@warning": {
-    "type": "String",
-    "placeholders": {}
-  },
   "weSentYouAnEmail": "Du har fått en e-post",
-  "@weSentYouAnEmail": {
-    "type": "String",
-    "placeholders": {}
-  },
   "whoCanPerformWhichAction": "Hvem kan utføre hvilken handling",
-  "@whoCanPerformWhichAction": {
-    "type": "String",
-    "placeholders": {}
-  },
   "whoIsAllowedToJoinThisGroup": "Hvem tillates å ta del i denne gruppen",
-  "@whoIsAllowedToJoinThisGroup": {
-    "type": "String",
-    "placeholders": {}
-  },
   "whyDoYouWantToReportThis": "Hvorfor ønsker du å rapportere dette?",
-  "@whyDoYouWantToReportThis": {
-    "type": "String",
-    "placeholders": {}
-  },
   "withTheseAddressesRecoveryDescription": "Med disse adressene kan du gjenopprette passordet ditt hvis du trenger det.",
-  "@withTheseAddressesRecoveryDescription": {
-    "type": "String",
-    "placeholders": {}
-  },
   "writeAMessage": "Skriv en melding …",
-  "@writeAMessage": {
-    "type": "String",
-    "placeholders": {}
-  },
   "yes": "Ja",
-  "@yes": {
-    "type": "String",
-    "placeholders": {}
-  },
   "you": "Deg",
-  "@you": {
-    "type": "String",
-    "placeholders": {}
-  },
   "youAreNoLongerParticipatingInThisChat": "Du deltar ikke lenger i denne sludringen",
-  "@youAreNoLongerParticipatingInThisChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "youHaveBeenBannedFromThisChat": "Du har blitt bannlyst fra denne sludringen",
-  "@youHaveBeenBannedFromThisChat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "yourPublicKey": "Din offentlige nøkkel",
-  "@yourPublicKey": {
-    "type": "String",
-    "placeholders": {}
-  },
   "toggleUnread": "Marker som lest/ulest",
-  "@toggleUnread": {
-    "type": "String",
-    "placeholders": {}
-  },
   "toggleMuted": "Veksle forstumming",
-  "@toggleMuted": {
-    "type": "String",
-    "placeholders": {}
-  },
   "toggleFavorite": "Veksle favorittmerking",
-  "@toggleFavorite": {
-    "type": "String",
-    "placeholders": {}
-  },
   "noConnectionToTheServer": "Ingen tilkobling til tjeneren",
-  "@noConnectionToTheServer": {
-    "type": "String",
-    "placeholders": {}
-  },
   "addEmail": "Legg til e-post",
-  "@addEmail": {
-    "type": "String",
-    "placeholders": {}
-  },
   "repeatPassword": "Gjenta passord",
-  "@repeatPassword": {},
   "addToSpace": "Legg til space",
-  "@addToSpace": {},
   "allChats": "Alle samtaler",
-  "@allChats": {
-    "type": "String",
-    "placeholders": {}
-  },
   "autoplayImages": "Automatisk spill av animerte stickers og emojis",
   "@autoplayImages": {
     "type": "String",
@@ -1764,7 +846,6 @@
     }
   },
   "sendOnEnter": "Trykk på enter for å sende",
-  "@sendOnEnter": {},
   "badServerVersionsException": "Denne hjemme serveren støtter følgene Spec-versjoner:\n{serverVersions}\nMen denne applikasjonen støtter kun {supportedVersions}",
   "@badServerVersionsException": {
     "type": "String",
@@ -1778,10 +859,6 @@
     }
   },
   "blocked": "Blokkert",
-  "@blocked": {
-    "type": "String",
-    "placeholders": {}
-  },
   "cantOpenUri": "Kan ikke åpne URI {uri}",
   "@cantOpenUri": {
     "type": "String",
@@ -1792,10 +869,5 @@
     }
   },
   "changeYourAvatar": "Bytt profilbilde",
-  "@changeYourAvatar": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "notAnImage": "Ikke en bildefil.",
-  "@notAnImage": {}
+  "notAnImage": "Ikke en bildefil."
 }

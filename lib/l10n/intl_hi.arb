@@ -1,19 +1,9 @@
 {
   "remove": "निकालना",
-  "@remove": {
-    "type": "String",
-    "placeholders": {}
-  },
   "importFromZipFile": ".zip फ़ाइल से आयात करें",
-  "@importFromZipFile": {},
   "repeatPassword": "पासवर्ड दोहराएं",
-  "@repeatPassword": {},
   "exportEmotePack": "इमोट पैक को .zip के रूप में निर्यात करें",
-  "@exportEmotePack": {},
   "importEmojis": "इमोजी आयात करें",
-  "@importEmojis": {},
   "notAnImage": "कोई छवि फ़ाइल नहीं।",
-  "@notAnImage": {},
-  "importNow": "अभी आयात करें",
-  "@importNow": {}
+  "importNow": "अभी आयात करें"
 }

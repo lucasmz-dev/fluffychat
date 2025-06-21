@@ -1,15 +1,7 @@
 {
   "@@last_modified": "2021-08-14 12:41:10.154280",
   "about": "সম্পর্কে",
-  "@about": {
-    "type": "String",
-    "placeholders": {}
-  },
   "accept": "স্বীকার করি",
-  "@accept": {
-    "type": "String",
-    "placeholders": {}
-  },
   "acceptedTheInvitation": "{username} আমন্ত্রণ গ্রহণ করেছে",
   "@acceptedTheInvitation": {
     "type": "String",

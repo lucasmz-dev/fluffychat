@@ -9,12 +9,7 @@
     }
   },
   "commandHint_cuddle": "ส่งเคล้าเคลียให้",
-  "@commandHint_cuddle": {},
   "admin": "แอดมิน",
-  "@admin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "supposedMxid": "อันนี้ควรเป็น {mxid}",
   "@supposedMxid": {
     "type": "String",
@@ -25,22 +20,9 @@
     }
   },
   "askSSSSSign": "เพื่อให้สามารถลงนามบุคคลอื่นได้ โปรดป้อนรหัสผ่านร้านค้าที่ปลอดภัยหรือรหัสกู้คืนของคุณ",
-  "@askSSSSSign": {
-    "type": "String",
-    "placeholders": {}
-  },
   "remove": "ลบออก",
-  "@remove": {
-    "type": "String",
-    "placeholders": {}
-  },
   "areGuestsAllowedToJoin": "ผู้ใช้ทั่วไปได้รับอนุญาตให้เข้าร่วมหรือไม่",
-  "@areGuestsAllowedToJoin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sendOnEnter": "ส่งเมื่อกด enter",
-  "@sendOnEnter": {},
   "answeredTheCall": "{senderName} รับสายแล้ว",
   "@answeredTheCall": {
     "type": "String",
@@ -51,15 +33,7 @@
     }
   },
   "alias": "นามแฝง",
-  "@alias": {
-    "type": "String",
-    "placeholders": {}
-  },
   "all": "ทั้งหมด",
-  "@all": {
-    "type": "String",
-    "placeholders": {}
-  },
   "badServerLoginTypesException": "โฮมเซิร์ฟเวอร์รองรับประเภทการเข้าสู่ระบบ:\n{serverVersions}\nแต่แอปนี้รองรับเฉพาะ:\n{supportedVersions}",
   "@badServerLoginTypesException": {
     "type": "String",
@@ -73,39 +47,17 @@
     }
   },
   "edit": "แก้ไข",
-  "@edit": {
-    "type": "String",
-    "placeholders": {}
-  },
   "copy": "คัดลอก",
-  "@copy": {
-    "type": "String",
-    "placeholders": {}
-  },
   "importFromZipFile": "นำเข้าจากไฟล์ .zip",
-  "@importFromZipFile": {},
   "autoplayImages": "เล่นสติ๊กเกอร์และอิโมจิแบบเคลื่อนไหวโดยอัตโนมัติ",
   "@autoplayImages": {
     "type": "String",
     "placeholder": {}
   },
   "help": "ช่วยเหลือ",
-  "@help": {
-    "type": "String",
-    "placeholders": {}
-  },
   "chatDetails": "รายละเอียดแชท",
-  "@chatDetails": {
-    "type": "String",
-    "placeholders": {}
-  },
   "repeatPassword": "ใส่รหัสผ่านอีกรอบ",
-  "@repeatPassword": {},
   "delete": "ลบออก",
-  "@delete": {
-    "type": "String",
-    "placeholders": {}
-  },
   "acceptedTheInvitation": "👍 {username} ได้รับการชวนแล้ว",
   "@acceptedTheInvitation": {
     "type": "String",
@@ -116,39 +68,13 @@
     }
   },
   "send": "ส่ง",
-  "@send": {
-    "type": "String",
-    "placeholders": {}
-  },
   "exportEmotePack": "ส่งอิโมจิแพ็คออกเป็นไฟล์ .zip",
-  "@exportEmotePack": {},
   "account": "บัญชี",
-  "@account": {
-    "type": "String",
-    "placeholders": {}
-  },
   "chat": "แชท",
-  "@chat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "areYouSure": "คุณแน่ใจไหม?",
-  "@areYouSure": {
-    "type": "String",
-    "placeholders": {}
-  },
   "allChats": "แชททั้งหมด",
-  "@allChats": {
-    "type": "String",
-    "placeholders": {}
-  },
   "addToSpace": "เพิ่มไปที่ space",
-  "@addToSpace": {},
   "about": "เกี่ยวกับ",
-  "@about": {
-    "type": "String",
-    "placeholders": {}
-  },
   "activatedEndToEndEncryption": "🔐 {username} เปิดใช้งาน end to end encryption",
   "@activatedEndToEndEncryption": {
     "type": "String",
@@ -159,10 +85,6 @@
     }
   },
   "fluffychat": "FluffyChat",
-  "@fluffychat": {
-    "type": "String",
-    "placeholders": {}
-  },
   "googlyEyesContent": "{senderName} ส่งตากวนๆให้คุณ",
   "@googlyEyesContent": {
     "type": "String",
@@ -173,25 +95,12 @@
     }
   },
   "addChatDescription": "เพิ่มคำอธิบายการแชท",
-  "@addChatDescription": {},
   "appLock": "ล็อคแอป",
-  "@appLock": {
-    "type": "String",
-    "placeholders": {}
-  },
   "sendTypingNotifications": "ส่งการแจ้งเตือนการพิมพ์",
-  "@sendTypingNotifications": {},
   "importEmojis": "นำเข้าอ๊โมจิ",
-  "@importEmojis": {},
   "confirmMatrixId": "กรุณายืนยัน Matrix ID ของคุณเพื่อลบบัญชีของคุณ",
-  "@confirmMatrixId": {},
   "notAnImage": "ไม่ใช่ไฟล์รูปภาพ",
-  "@notAnImage": {},
   "areYouSureYouWantToLogout": "คุณแน่ใจว่าคุณต้องการที่จะออกจากระบบ?",
-  "@areYouSureYouWantToLogout": {
-    "type": "String",
-    "placeholders": {}
-  },
   "cuddleContent": "{senderName} เคล้าเคลียคุณ",
   "@cuddleContent": {
     "type": "String",
@@ -211,33 +120,13 @@
     }
   },
   "addEmail": "เพิ่มอีเมล",
-  "@addEmail": {
-    "type": "String",
-    "placeholders": {}
-  },
   "commandHint_hug": "ส่งกอดให้",
-  "@commandHint_hug": {},
   "replace": "แทนที่",
-  "@replace": {},
   "archive": "คลังเก็บ",
-  "@archive": {
-    "type": "String",
-    "placeholders": {}
-  },
   "accept": "ยอมรับ",
-  "@accept": {
-    "type": "String",
-    "placeholders": {}
-  },
   "commandHint_googly": "ส่งสายตากวนๆ มาให้หน่อย",
-  "@commandHint_googly": {},
   "pin": "ปักหมุด",
-  "@pin": {
-    "type": "String",
-    "placeholders": {}
-  },
   "importNow": "นำเข้าเลย",
-  "@importNow": {},
   "anyoneCanJoin": "ใครๆ ก็สามารถเข้าร่วมได้",
   "@anyoneCanJoin": {
     "type": "String",
