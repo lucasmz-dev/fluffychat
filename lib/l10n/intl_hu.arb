@@ -619,11 +619,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Ismeretlen események elrejtése",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "id": "ID",
   "@id": {
     "type": "String",
@@ -631,11 +626,6 @@
   },
   "identity": "Azonosító",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Figyelmen kívül hagyott felhasználók",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },
@@ -1682,11 +1672,6 @@
   "@homeserver": {},
   "chatBackup": "Csevegés biztonsági mentés",
   "@chatBackup": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Figyelmen kívül hagyás",
-  "@ignore": {
     "type": "String",
     "placeholders": {}
   },

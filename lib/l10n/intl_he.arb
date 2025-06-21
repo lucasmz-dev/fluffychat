@@ -693,11 +693,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "ignoredUsers": "משתמשים שהתעלמו מהם",
-  "@ignoredUsers": {
-    "type": "String",
-    "placeholders": {}
-  },
   "incorrectPassphraseOrKey": "ביטוי סיסמה או מפתח שחזור שגויים",
   "@incorrectPassphraseOrKey": {
     "type": "String",
@@ -978,11 +973,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "הסתר אירועים לא ידועים",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "loadCountMoreParticipants": "טען {count} משתתפים נוספים",
   "@loadCountMoreParticipants": {
     "type": "String",
@@ -994,11 +984,6 @@
   },
   "homeserver": "שרת בית",
   "@homeserver": {},
-  "ignore": "התעלם",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
   "iHaveClickedOnLink": "לחצתי על הקישור",
   "@iHaveClickedOnLink": {
     "type": "String",

@@ -928,23 +928,8 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Ascunde evenimente necunoscute",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "identity": "Identitate",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignorați",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Utilizatori ignorați",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

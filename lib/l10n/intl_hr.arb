@@ -893,11 +893,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Sakrij nepoznate događaje",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Koliko je ovaj sadržaj uvredljiv?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -910,16 +905,6 @@
   },
   "identity": "Identitet",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Zanemari",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Zanemareni korisnici",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

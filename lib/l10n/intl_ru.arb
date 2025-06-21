@@ -912,11 +912,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Скрыть неизвестные события",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Насколько оскорбительным является этот контент?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -929,16 +924,6 @@
   },
   "identity": "Идентификация",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Игнорировать",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Игнорируемые пользователи",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

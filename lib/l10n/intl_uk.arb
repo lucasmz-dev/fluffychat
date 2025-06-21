@@ -1610,11 +1610,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "ignore": "Нехтувати",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
   "fontSize": "Розмір шрифту",
   "@fontSize": {
     "type": "String",
@@ -1853,16 +1848,6 @@
   "@commandHint_me": {
     "type": "String",
     "description": "Usage hint for the command /me"
-  },
-  "hideUnknownEvents": "Сховати невідомі події",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Нехтувані користувачі",
-  "@ignoredUsers": {
-    "type": "String",
-    "placeholders": {}
   },
   "obtainingLocation": "Отримання розташування…",
   "@obtainingLocation": {

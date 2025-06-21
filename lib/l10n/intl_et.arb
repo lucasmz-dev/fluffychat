@@ -912,11 +912,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Peida tundmatud sündmused",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Kui solvav see sisu on?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -929,16 +924,6 @@
   },
   "identity": "Identiteet",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Eira",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Eiratud kasutajad",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

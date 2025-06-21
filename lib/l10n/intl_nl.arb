@@ -915,11 +915,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Onbekende gebeurtenissen verbergen",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Hoe beledigend is deze inhoud?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -932,16 +927,6 @@
   },
   "identity": "Identiteit",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Negeer",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Genegeerde personen",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

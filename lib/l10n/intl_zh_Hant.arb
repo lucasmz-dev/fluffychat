@@ -772,11 +772,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "隱藏未知事件",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "這個內容有多令人反感？",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -789,16 +784,6 @@
   },
   "identity": "身份",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "無視",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "已無視的使用者",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

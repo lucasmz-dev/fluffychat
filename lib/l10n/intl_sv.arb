@@ -725,11 +725,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Göm okända händelser",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Hur stötande är detta innehåll?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -742,16 +737,6 @@
   },
   "identity": "Identitet",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignorera",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Ignorera användare",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

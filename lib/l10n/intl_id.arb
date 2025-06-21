@@ -161,11 +161,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "ignoredUsers": "Pengguna yang diabaikan",
-  "@ignoredUsers": {
-    "type": "String",
-    "placeholders": {}
-  },
   "identity": "Identitas",
   "@identity": {
     "type": "String",
@@ -173,11 +168,6 @@
   },
   "id": "ID",
   "@id": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "hideUnknownEvents": "Sembunyikan peristiwa tidak dikenal",
-  "@hideUnknownEvents": {
     "type": "String",
     "placeholders": {}
   },
@@ -1819,11 +1809,6 @@
   },
   "inoffensive": "Tidak menyinggung",
   "@inoffensive": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Abaikan",
-  "@ignore": {
     "type": "String",
     "placeholders": {}
   },

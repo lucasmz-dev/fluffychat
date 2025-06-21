@@ -689,23 +689,8 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Slėpti nežinomus įvykius",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "identity": "Tapatybė",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignoruoti",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Ignoruoti vartotojai",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

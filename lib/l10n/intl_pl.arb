@@ -819,11 +819,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Ukryj nieznane wdarzenia",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "id": "Identyfikator",
   "@id": {
     "type": "String",
@@ -831,11 +826,6 @@
   },
   "identity": "Tożsamość",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Ignorowani użytkownicy",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },
@@ -1583,11 +1573,6 @@
   },
   "allChats": "Wszystkie",
   "@allChats": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignoruj",
-  "@ignore": {
     "type": "String",
     "placeholders": {}
   },

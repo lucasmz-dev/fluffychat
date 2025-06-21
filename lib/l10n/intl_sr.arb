@@ -859,11 +859,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Сакриј непознате догађаје",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Колико је увредљив овај садржај?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -876,16 +871,6 @@
   },
   "identity": "Идентитет",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Игнориши",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Игнорисани корисници",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

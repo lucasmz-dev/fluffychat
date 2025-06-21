@@ -1423,16 +1423,6 @@
   },
   "sendOnEnter": "Odoslať pri vstupe",
   "@sendOnEnter": {},
-  "ignoredUsers": "Ignorovaní užívatelia",
-  "@ignoredUsers": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignorovať",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
   "search": "Hľadať",
   "@search": {
     "type": "String",

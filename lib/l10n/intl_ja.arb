@@ -790,11 +790,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "不明なイベントを非表示にする",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "どのくらい攻撃的でしたか？",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -807,16 +802,6 @@
   },
   "identity": "アイデンティティ",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "無視する",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "無視されたユーザー",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

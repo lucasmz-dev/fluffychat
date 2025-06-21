@@ -998,11 +998,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "پنهان کردن رویدادهای ناشناخته",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "contentHasBeenReported": "محتوا به مدیران سرور گزارش شده است",
   "@contentHasBeenReported": {
     "type": "String",
@@ -1147,11 +1142,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "ignoredUsers": "کاربران نادیده‌گرفته شده",
-  "@ignoredUsers": {
-    "type": "String",
-    "placeholders": {}
-  },
   "commandHint_googly": "ارسال چند چشم گوگولی",
   "@commandHint_googly": {},
   "googlyEyesContent": "{senderName} به شما چشمان گوگولی می‌فرستد",
@@ -1162,11 +1152,6 @@
         "type": "String"
       }
     }
-  },
-  "ignore": "نادیده‌گرفتن",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
   },
   "cuddleContent": "{senderName} شما را در آغوش می‌گیرد",
   "@cuddleContent": {

@@ -916,11 +916,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Bilinmeyen etkinlikleri gizle",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Bu içerik ne kadar rahatsız edici?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -933,16 +928,6 @@
   },
   "identity": "Kimlik",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Yok say",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Yok sayılan kullanıcılar",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

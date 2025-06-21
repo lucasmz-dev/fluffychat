@@ -1461,11 +1461,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Ezkutatu gertaera ezezagunak",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "inviteForMe": "Niretzako gonbidapenak",
   "@inviteForMe": {
     "type": "String",
@@ -1648,11 +1643,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "ignoredUsers": "Ez ikusia egindako erabiltzaileak",
-  "@ignoredUsers": {
-    "type": "String",
-    "placeholders": {}
-  },
   "security": "Segurtasuna",
   "@security": {
     "type": "String",
@@ -1790,11 +1780,6 @@
   "@commandHint_myroomnick": {
     "type": "String",
     "description": "Usage hint for the command /myroomnick"
-  },
-  "ignore": "Ezikusi",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
   },
   "containsUserName": "Erabiltzaile-izena dauka",
   "@containsUserName": {

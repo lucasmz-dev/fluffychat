@@ -604,11 +604,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "ignoredUsers": "المستخدمون المتجاهلون",
-  "@ignoredUsers": {
-    "type": "String",
-    "placeholders": {}
-  },
   "incorrectPassphraseOrKey": "عبارة مرور أو مفتاح استرداد خطأ",
   "@incorrectPassphraseOrKey": {
     "type": "String",
@@ -1443,18 +1438,8 @@
     "type": "String",
     "placeholders": {}
   },
-  "ignore": "تجاهل",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "ما مدى سوء هذا المحتوى؟",
   "@howOffensiveIsThisContent": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "hideUnknownEvents": "اخف الأحداث المجهولة",
-  "@hideUnknownEvents": {
     "type": "String",
     "placeholders": {}
   },

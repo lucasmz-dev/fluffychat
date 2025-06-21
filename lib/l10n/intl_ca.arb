@@ -695,11 +695,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Amaga els esdeveniments desconeguts",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "id": "Id.",
   "@id": {
     "type": "String",
@@ -707,11 +702,6 @@
   },
   "identity": "Identitat",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Usuaris ignorats",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },
@@ -1744,11 +1734,6 @@
   },
   "changeYourAvatar": "Canvia l’avatar",
   "@changeYourAvatar": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignora",
-  "@ignore": {
     "type": "String",
     "placeholders": {}
   },

@@ -289,11 +289,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "ignore": "Tabhair neamhaird ar",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
   "identity": "Aitheantas",
   "@identity": {
     "type": "String",
@@ -977,11 +972,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Folaigh imeachtaí anaithnide",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "unknownDevice": "Gléas anaithnid",
   "@unknownDevice": {
     "type": "String",
@@ -1178,11 +1168,6 @@
   },
   "inviteContact": "Tabhair cuireadh do theagmháil",
   "@inviteContact": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Úsáideoirí a dtugann tú neamhaird orthu",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

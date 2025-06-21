@@ -695,11 +695,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Ocultar sucesos desconocidos",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "id": "Identificación",
   "@id": {
     "type": "String",
@@ -707,11 +702,6 @@
   },
   "identity": "Identidad",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Usuarios ignorados",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },
@@ -1772,11 +1762,6 @@
   },
   "setCustomEmotes": "Establecer emoticonos personalizados",
   "@setCustomEmotes": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignorar",
-  "@ignore": {
     "type": "String",
     "placeholders": {}
   },

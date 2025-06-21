@@ -844,11 +844,6 @@
       }
     }
   },
-  "ignore": "무시",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
   "identity": "신원",
   "@identity": {
     "type": "String",
@@ -861,11 +856,6 @@
   },
   "howOffensiveIsThisContent": "이 콘텐츠가 얼마나 모욕적인가요?",
   "@howOffensiveIsThisContent": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "hideUnknownEvents": "알 수 없는 이벤트 숨기기",
-  "@hideUnknownEvents": {
     "type": "String",
     "placeholders": {}
   },
@@ -1519,11 +1509,6 @@
         "type": "String"
       }
     }
-  },
-  "ignoredUsers": "무시된 사용자",
-  "@ignoredUsers": {
-    "type": "String",
-    "placeholders": {}
   },
   "pleaseEnter4Digits": "4자리 숫자를 입력하거나 앱 잠금을 사용하지 않도록 하려면 비워두세요.",
   "@pleaseEnter4Digits": {

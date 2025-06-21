@@ -912,11 +912,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Agochar eventos descoñecidos",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "É moi ofensivo este contido?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -929,16 +924,6 @@
   },
   "identity": "Identidade",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignorar",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Usuarias ignoradas",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

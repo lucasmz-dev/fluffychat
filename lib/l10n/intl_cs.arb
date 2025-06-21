@@ -912,11 +912,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Skrýt neznámé události",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Jak urážlivý je tento obsah?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -929,16 +924,6 @@
   },
   "identity": "Identita",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignorovat",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Ignorovaní uživatelé",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

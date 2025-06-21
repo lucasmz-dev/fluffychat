@@ -901,11 +901,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Kaŝi nekonatajn eventojn",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Kiel ofenda estas ĉi tiu enhavo?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -918,16 +913,6 @@
   },
   "identity": "Identeco",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Malatenti",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Malatentitaj uzantoj",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },

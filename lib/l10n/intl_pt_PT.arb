@@ -844,11 +844,6 @@
     "type": "String",
     "placeholders": {}
   },
-  "hideUnknownEvents": "Esconder eventos desconhecidos",
-  "@hideUnknownEvents": {
-    "type": "String",
-    "placeholders": {}
-  },
   "howOffensiveIsThisContent": "Quão ofensivo é este conteúdo?",
   "@howOffensiveIsThisContent": {
     "type": "String",
@@ -861,16 +856,6 @@
   },
   "identity": "Identidade",
   "@identity": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignore": "Ignorar",
-  "@ignore": {
-    "type": "String",
-    "placeholders": {}
-  },
-  "ignoredUsers": "Utilizadores ignorados",
-  "@ignoredUsers": {
     "type": "String",
     "placeholders": {}
   },
