@@ -1,9 +1,13 @@
 {
   "@@locale": "yue",
   "normalUser": "正常用家",
+  "@normalUser": {},
   "areYouSureYouWantToLogout": "係咪確定要 log out？",
+  "@areYouSureYouWantToLogout": {},
   "areGuestsAllowedToJoin": "畀唔畀陌生人 Join",
+  "@areGuestsAllowedToJoin": {},
   "askSSSSSign": "要向其他人簽名，請輸入你 Keep 好咗嘅密碼或者恢復密鑰。",
+  "@askSSSSSign": {},
   "badServerLoginTypesException": "呢個 Homeserver 支持嘅登錄類型有：\n{serverVersions}\n但係呢個 App 淨係支援：\n{supportedVersions}",
   "@badServerLoginTypesException": {
     "type": "String",
@@ -38,7 +42,9 @@
     }
   },
   "banFromChat": "喺傾偈入面 Ban 咗佢",
+  "@banFromChat": {},
   "noChatsFoundHere": "暫時未有偈傾。撳下面粒掣同人開始傾偈 ⤵️",
+  "@noChatsFoundHere": {},
   "bannedUser": "{username} Ban 咗 {targetName}",
   "@bannedUser": {
     "type": "String",
@@ -64,11 +70,13 @@
     }
   },
   "addEmail": "加 Email",
+  "@addEmail": {},
   "alwaysUse24HourFormat": "false",
   "@alwaysUse24HourFormat": {
     "description": "Set to true to always display time of day in 24 hour format."
   },
   "importEmojis": "導入 Emoji",
+  "@importEmojis": {},
   "hugContent": "{senderName} 抱咗你",
   "@hugContent": {
     "type": "String",
@@ -79,14 +87,23 @@
     }
   },
   "commandHint_hug": "Send 個 Hug",
+  "@commandHint_hug": {},
   "anyoneCanJoin": "任何人都可以 Join",
+  "@anyoneCanJoin": {},
   "repeatPassword": "輸入多一次密碼",
+  "@repeatPassword": {},
   "notAnImage": "唔係圖檔。",
+  "@notAnImage": {},
   "remove": "刪走",
+  "@remove": {},
   "importNow": "即刻導入",
+  "@importNow": {},
   "exportEmotePack": "將表情符號導出成 .zip 檔案",
+  "@exportEmotePack": {},
   "replace": "換走",
+  "@replace": {},
   "about": "關於",
+  "@about": {},
   "aboutHomeserver": "關於{homeserver}",
   "@aboutHomeserver": {
     "type": "String",
@@ -97,6 +114,7 @@
     }
   },
   "accept": "同意",
+  "@accept": {},
   "acceptedTheInvitation": "👍 {username} 同意咗邀请",
   "@acceptedTheInvitation": {
     "type": "String",
@@ -107,6 +125,7 @@
     }
   },
   "account": "Account",
+  "@account": {},
   "activatedEndToEndEncryption": "🔐 {username} 開咗點對點加密",
   "@activatedEndToEndEncryption": {
     "type": "String",
@@ -126,14 +145,23 @@
     }
   },
   "addChatDescription": "講下關於呢個偈係傾嘅乜嘢……",
+  "@addChatDescription": {},
   "addToSpace": "加落去空間嗰度",
+  "@addToSpace": {},
   "admin": "Admin",
+  "@admin": {},
   "alias": "花名",
+  "@alias": {},
   "all": "全部",
+  "@all": {},
   "allChats": "所有傾嘅偈仔",
+  "@allChats": {},
   "commandHint_roomupgrade": "將呢間房升級到指定版本",
+  "@commandHint_roomupgrade": {},
   "commandHint_googly": "送啲古靈精怪表情過去",
+  "@commandHint_googly": {},
   "commandHint_cuddle": "Send 個攬攬",
+  "@commandHint_cuddle": {},
   "googlyEyesContent": "{senderName} Send 咗你一個咕嚕眼",
   "@googlyEyesContent": {
     "type": "String",
@@ -162,9 +190,13 @@
     }
   },
   "appLock": "App 鎖",
+  "@appLock": {},
   "appLockDescription": "無人用嘅時候用密碼鎖住個App",
+  "@appLockDescription": {},
   "archive": "存檔",
+  "@archive": {},
   "areYouSure": "咪住先？",
+  "@areYouSure": {},
   "askVerificationRequest": "係咪要 Accept 來自 {username} 嘅驗證申請？",
   "@askVerificationRequest": {
     "type": "String",
@@ -180,8 +212,11 @@
     "placeholder": {}
   },
   "sendTypingNotifications": "通知人地打緊字",
+  "@sendTypingNotifications": {},
   "swipeRightToLeftToReply": "向左滑嚟回覆",
+  "@swipeRightToLeftToReply": {},
   "sendOnEnter": "撳 Enter 即 Send",
+  "@sendOnEnter": {},
   "countChatsAndCountParticipants": "{chats} 間房同 {participants} 條友",
   "@countChatsAndCountParticipants": {
     "type": "String",
@@ -195,16 +230,27 @@
     }
   },
   "noMoreChatsFound": "搵唔到更多偈傾啦…",
+  "@noMoreChatsFound": {},
   "joinedChats": "入咗嘅房間",
+  "@joinedChats": {},
   "unread": "未讀",
+  "@unread": {},
   "space": "空間",
+  "@space": {},
   "spaces": "空間",
+  "@spaces": {},
   "banned": "Block 咗",
+  "@banned": {},
   "blockDevice": "Block 咗嘅裝置",
+  "@blockDevice": {},
   "blocked": "Block 咗",
+  "@blocked": {},
   "botMessages": "機械人訊息",
+  "@botMessages": {},
   "cancel": "取消",
+  "@cancel": {},
   "changeDeviceName": "改裝置名",
+  "@changeDeviceName": {},
   "changedTheChatAvatar": "{username}轉咗個大頭貼",
   "@changedTheChatAvatar": {
     "type": "String",
@@ -215,7 +261,11 @@
     }
   },
   "confirmMatrixId": "Confirm 你嘅 Matrix ID ，我哋先至可以刪除你嘅 Account。",
+  "@confirmMatrixId": {},
   "setCustomPermissionLevel": "自訂權限級別",
+  "@setCustomPermissionLevel": {},
   "importFromZipFile": "喺 .zip 檔案導入",
-  "setPermissionsLevelDescription": "請喺下面選擇一個預定義嘅角色，或輸入介乎0同100之間嘅自定義權限級別。"
+  "@importFromZipFile": {},
+  "setPermissionsLevelDescription": "請喺下面選擇一個預定義嘅角色，或輸入介乎0同100之間嘅自定義權限級別。",
+  "@setPermissionsLevelDescription": {}
 }
